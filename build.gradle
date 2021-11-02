@@ -10,7 +10,7 @@ buildscript {
         def arch_version = "2.1.0"
 
         // ViewModel
-        implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
+update        implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
         // ViewModel utilities for Compose
         implementation "androidx.lifecycle:lifecycle-viewmodel-compose:$lifecycle_version"
         // LiveData
